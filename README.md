@@ -217,4 +217,4 @@ Photomatix is provided as a complete free version, offering all features and upd
 Elevate your photography with Photomatix today! Download now to unlock the full potential of your images.
 
 ---
-**Last updated:** 2026-11-07 21:24:02 UTC
+**Last updated:** 2026-11-08 01:01:55 UTC
